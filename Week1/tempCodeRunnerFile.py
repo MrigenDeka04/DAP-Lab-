@@ -1,0 +1,1 @@
+squareofnum(num)
